@@ -1,0 +1,14 @@
+{
+    "rachunek1": {
+        "kwota": "tenant-1",
+        "data_platnosci": "apart-polanka",
+        "typ_rachunku": "room-bigger",
+        "mieszkanie": "polanka1"
+    },
+    "rachunek2": {
+        "kwota": "1200",
+        "data_platnosci": "16.03.2026",
+        "typ_rachunku": "oplata",
+        "mieszkanie": "polanka2"
+    }
+}
